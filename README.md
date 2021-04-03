@@ -13,7 +13,7 @@
 ##### 3-A tarefa adicionada pelo usuario é mostrada na terceira Tela.
 
 
-![Tela Inicial](https://github.com/wylgberthy08/TodoList/blob/master/Design%20sem%20nome.png=200x200)
+![Tela Inicial](https://github.com/wylgberthy08/TodoList/blob/master/Design%20sem%20nome.png)
 
 #### Para Rodar o aplicativo na sua maquina você precisa rodar na pasta do projeto o comando 'yarn' para baixar as dependências usadas no projeto.
 #### Em seguida Rodar npm start para iniciar o aplicativo.
