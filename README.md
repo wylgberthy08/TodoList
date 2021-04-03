@@ -5,10 +5,12 @@ Aplicação tem como objetivo organizar o dia a dia do usuario. <br>
 A aplicação serviu para aperfeiçoar minhas habilidades em desenvolvimento frontend mobile. <br>
 
 
-### Essa é a tela incial do Aplicativo sem Tarefas adicionadas
+### A primeira tela do aplicativo é a tela inicial onde não tem tarefas, tem um botão com o simbolo de Mais(+), onde adiciona uma nova tarefa.
+
+### A Segunda tela é onde tem uma caixa que o usuario pode digitar a sua tarefa e tem o botão de cadastrar
 
 
-![Tela Inicial]()
+![Tela Inicial](https://github.com/wylgberthy08/TodoList/blob/master/Design%20sem%20nome.png)
 
 
 
